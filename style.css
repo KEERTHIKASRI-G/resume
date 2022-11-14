@@ -10,10 +10,10 @@ h1 {
     padding-top: 1em;
     padding-bottom: 1em;
 }
-
 h2 {
     font-size: 1.5em;
-    padding-bottom: 1em;
+    padding-bottom: 0em;
+    background-color: rgb(77, 192, 227);
 }
 
 h3 {
@@ -47,11 +47,32 @@ hr {
     background-color: rgb(72, 66, 66);
     height: 1px;
 }
-
-h1, h2, h3 {
+h2{
+    color: white;
+}
+h1, h3 {
     font-weight: 100;
     margin-bottom: 0;
+    color: rgb(107, 201, 210);
 }
+
 #mainLeft {
     border-right: 1px solid lightgray;
 }
+
+
+
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+h1 {
+    color: rgb(50, 189, 204);
+    text-align: center;
+    font-weight: 700;
+    
+  }
+  
+  p {
+    font-family: verdana;
+  }
