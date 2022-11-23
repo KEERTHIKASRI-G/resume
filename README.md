@@ -124,18 +124,17 @@ You're going to use these three tags (and a couple of others) to begin the creat
                          <i>CGPA : 8.48<i></i>
                          </i></p>
                          <br>
-
-<h3><b>Secondary:</b></h3>	
-<p>Mahatma Baba Building Mat. Hr. Sec. School, Madurai – 628 107.</p>
-
-	
-				</section>            
+					<h3><b>Secondary:</b></h3>	
+					<p>Mahatma Baba Building Mat. Hr. Sec. School, Madurai – 628 107.</p>
+				</section>
 			</article>
 			<article id="mainRight">
 				<section>
 					<h2><b>ABOUT</b></h2>
 					<!-- about you -->
-                    <p>To commit a professional job where I can utilize my field of study and work experience, share, and at the same time cultivate my humble knowledge order to expand my understanding of discipline that I have chosen. To enable me to grow intellectually, morally and emotionally in new working environment.</p>
+					<p>To commit a professional job where I can utilize my field of study and work experience, share, and at the same time
+					 cultivate my humble knowledge order to expand my understanding of discipline that I have chosen. To enable me to grow 
+						intellectually, morally and emotionally in new working environment.</p>
 				</section>
 				<section>
 					<h2><b>WORK EXPERIENCE</b></h2>
@@ -150,25 +149,22 @@ You're going to use these three tags (and a couple of others) to begin the creat
 
                     <h2><b>ACHIEVEMENTS
                     </b></h2>
-<ul>
-		<li>Emerging participant award as a entrepreneur in ryla organized by the rotatory clud of 
-            virudhunagar</li>
-		<li>best volunteer award by National service scheme
-        </li>
-		<li>Recognised as a WINNER in the IITB-ISRO-AICTE Mapathon, an initiative of the FOSSEE 
-            project,IIT Bombay in association with ISRO and AICTE</li>
-</ul>
+					<ul>
+						<li>Emerging participant award as a entrepreneur in ryla organized by the rotatory clud of virudhunagar</li>
+						<li>best volunteer award by National service scheme
+						</li>
+						<li>Recognised as a WINNER in the IITB-ISRO-AICTE Mapathon, an initiative of the FOSSEE project,IIT Bombay in association with ISRO and AICTE</li>
+					</ul>
+		
 				</section>
 			</article>
-
-    <article>
-        Phone number: +91 -6374821748
-    </article>
-    
+			<article>
+				Phone number: +91 -6374821748
+			</article>
 		</main>
-	</body>
-</html>
-    ```
+		</body>
+        </html>
+         ```
 
 1. Notice how as you type (or copy and paste), the browser window on the right automatically updates with the information you've added.
 
