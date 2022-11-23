@@ -14,4 +14,4 @@ A modern web browser like [Microsoft Edge](https://www.microsoft.com/edge?WT.mc_
 ## Final Project
 By the end of this workshop, you'll have created a resume web site that will look like this:
 
-(![microsoft resume](https://user-images.githubusercontent.com/111286854/203629378-7966e474-a38d-479c-8fc4-efc3b3430aca.png)
+![microsoft resume](https://user-images.githubusercontent.com/111286854/203629378-7966e474-a38d-479c-8fc4-efc3b3430aca.png)
