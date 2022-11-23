@@ -27,7 +27,7 @@ In this workshop, you will:
 Let's get started!
 
 
-
+# Steps For Creating the HTML Code
 # Create an HTML page
 
 HTML stands for Hypertext Markup Language, and is used to "markup" the text to be displayed on a webpage. More specifically, HTML is used to describe the hierarchy and function of the text in a page. With HTML you can indicate a header, create a link to another page, or indicate where an image should be placed.
