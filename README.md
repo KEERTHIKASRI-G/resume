@@ -18,10 +18,10 @@ By the end of this workshop, you'll have created a resume web site that will loo
 
 ## Outline
 In this workshop, you will: 
-* [Set up your coding environment](0-setup.md)
-* [Learn basic HTML to outline your resume](1-create-html.md)
-* [Fill in your resume content](2-add-content.md)
-* [Style your resume with CSS](3-add-style.md)
-* [Create your resume website with GitHub Pages](4-creating-website.md)
+* Set up your coding environment
+* Learn basic HTML to outline your resume
+* Fill in your resume content
+* Style your resume with CSS
+* Create your resume website with GitHub Pages
 
 Let's get started!
