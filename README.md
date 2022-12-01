@@ -165,6 +165,31 @@ You're going to use these three tags (and a couple of others) to begin the creat
 		</body>
         </html>
          ```
+	 
+## Creating email and social media links
+
+Create a link to your email address and any social media you wish to share on your resume. You'll use the `a` tag, which stands for "anchor". `a` has an attribute named `href` (short for hypertext reference). `href` will contain the address you want the link to point to. When a user selects the link, they will be taken to the page. If you want to create a link to an email address, you will use `mailto:` in front of the address; this will open the user's email client.
+
+1. Inside **index.html**, and below the comment which reads `<!-- contact info including social media -->`, add the following HTML to add a link to your email, replacing **your-email@example.com** with your email address:
+
+    ```html
+    <p>
+        <i class="fa fa-envelope" aria-hidden="true"></i>
+        <a href="mailto:your-email@example.com">your-email@example.com</a>
+    </p>
+    ```
+1. Similarly, swap out the `href` of each `a` element with the appropriate hyperlink for each social media page, and be sure to change the link text as well. For example, if you want to add your GitHub and LinkedIn links to your resume, the HTML would look something like this: 
+
+    ```html
+    <p>
+        <i class="fab fa-github" aria-hidden="true"></i>
+        <a href="github.com/gh-username">gh-username</a>
+    </p>
+    <p>
+        <i class="fab fa-linkedin" aria-hidden="true"></i>
+        <a href="linkedin.com/linkedin-username">linkedin-username</a>
+    </p>
+    ```
 
 1. Notice how as you type (or copy and paste), the browser window on the right automatically updates with the information you've added.
 
